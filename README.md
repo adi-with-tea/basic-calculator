@@ -1,4 +1,4 @@
-#basic-calculator
+basic-calculator :
 
 A simple, responsive calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations including addition, subtraction, multiplication, and division.
 
@@ -25,8 +25,8 @@ calculator/
 ├── style.css        # Styling and layout
 └── script.js        # Functionality and logic
 
-🔧 How to Use
-Clone the repository:
+preview :
+https://adi-with-tea.github.io/basic-calculator/
 
 
 🛠️ Technologies Used
