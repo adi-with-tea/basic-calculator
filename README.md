@@ -1,4 +1,5 @@
-#basic calculator
+#basic-calculator
+
 A simple, responsive calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations including addition, subtraction, multiplication, and division.
 
 🚀 Demo
